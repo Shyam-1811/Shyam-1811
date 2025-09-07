@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is me Shyam Verma</h1>
 <h3 align="center">Aspiring developer from India</h3>
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frohanpalkar2000&psig=AOvVaw32kUIEqnS95Q07GvXSZ6e1&ust=1757336460606000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJDm78_axo8DFQAAAAAdAAAAABAE" alt="">
 - 🌱 I’m currently learning **Data Structures and Web Development**
 
 - 👨‍💻 know me more [🔖https://lnkd.in/dvj3kaXy](🔖https://lnkd.in/dvj3kaXy)
