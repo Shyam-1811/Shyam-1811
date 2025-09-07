@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is me Shyam Verma</h1>
 <h3 align="center">Aspiring developer from India</h3>
-<img  src="https://camo.githubusercontent.com/26a6a5f5a33b8a2c55e8750f33616cc45c96388e88ce74cb1c023a2cc5e0d2af/68747470733a2f2f70726f6d7074692e61692f77702d636f6e74656e742f75706c6f6164732f323032332f30372f7063626f69322e706e67" width="300px" height="300px" justify-content="center">
+<img  src="https://camo.githubusercontent.com/26a6a5f5a33b8a2c55e8750f33616cc45c96388e88ce74cb1c023a2cc5e0d2af/68747470733a2f2f70726f6d7074692e61692f77702d636f6e74656e742f75706c6f6164732f323032332f30372f7063626f69322e706e67" width="300px" height="300px" justify-content="space-evenly">
 - 🌱 I’m currently learning **Data Structures and Web Development**
 
 - 👨‍💻 know me more [🔖https://lnkd.in/dvj3kaXy](🔖https://lnkd.in/dvj3kaXy)
