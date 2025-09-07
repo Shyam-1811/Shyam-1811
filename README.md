@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, This is me Shyam Verma</h1>
 <h3 align="center">Aspiring developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shyam-1811&label=Profile%20views&color=0e75b6&style=flat" alt="shyam-1811" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shyam-1811" alt="shyam-1811" /></a> </p>
-
 - 🌱 I’m currently learning **Data Structures and Web Development**
 
 - 👨‍💻 know me more [🔖https://lnkd.in/dvj3kaXy](🔖https://lnkd.in/dvj3kaXy)
