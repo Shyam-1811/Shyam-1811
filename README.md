@@ -7,7 +7,7 @@
 
 -  👨‍💻 know me more [🔖https://lnkd.in/dvj3kaXy](🔖https://lnkd.in/dvj3kaXy)
 
-- ⚡ Reading books **Godan, Atomic Habit, The pursuit of Happiness**
+- ⚡ ** Reading books, Fooding, Travelling.... is fun !**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
