@@ -30,5 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-1811&" alt="shyam-1811" /></p>
 <h3 align="center">Support:</h3>
-<p><a href="https://shyam-verma-portfolio.netlify.app/"> <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC7VXPR9s5rvOOWekESrFPVuhAyuqm5sFhxA&s" height="50" width="210" alt="Shyam!" /></a></p><br><br>
+<p><a href="https://shyam-verma-portfolio.netlify.app/"> <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC7VXPR9s5rvOOWekESrFPVuhAyuqm5sFhxA&s" height="300" width="300" alt="Shyam!" /></a></p><br><br>
 
