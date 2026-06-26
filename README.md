@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, This is me Shyam Verma</h1>
 <h3 align="center">Aspiring developer from India</h3>
-<img align="right" src="<img width="225" height="225" alt="image" src="https://www.magnific.com/free-photos-vectors/person-coding" />
-" width="300px" height="300px"  >
+
 - 🌱 I’m currently learning **Data Structures and Web Development**
 
 - 📫 feel free to connect me **shyamverma1811@gmail.com**
